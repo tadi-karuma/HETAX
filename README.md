@@ -1,72 +1,36 @@
-# HETAX: 人道主義経済のための次世代税制構想
+# HETAX: Humanitarian Economy Tax System
 
 ## 概要 / Overview
 
-**HETAX（Humanitarian Economy Taxation System）** は、資本主義でも社会主義でもない「人道主義経済」を支える新しい税制構想です。
+HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・社会主義に代わる「人道主義経済」のための新しい税制構想です。富や利益の集中ではなく、倫理的・社会的な貢献に基づく評価を税制に取り入れることで、より持続可能で公正な経済を実現します。
 
-個人・法人を問わず、働き方・稼ぎ方・使い方の倫理性と社会貢献度を可視化・評価し、それに基づいて課税・控除を行う柔軟で透明性の高い制度を提案します。
-
----
-
-## 主な構成要素 / Key Components
-
-* **法人税制（[CorporateTax.md](./CorporateTax.md)）**
-
-  * 累進性の強化
-  * 労働健全性や人件費重視企業への優遇
-  * 知財・再投資の成果による控除
-  * 虚偽申告への制裁と自動追徴
-
-* **個人税制（[PersonalTax.md](./PersonalTax.md)）**
-
-  * 所得の質に応じた課税（労働 vs 投機）
-  * 労働健全性や社会参加への控除
-  * 家族・扶養・生活環境を加味した柔軟設計
-
-* **人道スコア（[HumanitarianScore.md](./HumanitarianScore.md)）**
-
-  * 各企業の「人道的な経営度」をスコア化
-  * 雇用、分配、透明性、倫理性等を最大100点で柔軟構成
-  * 金融・自治体・行政の多分野で活用可能
-
-* **制度統合（[Integration.md](./Integration.md)）**
-
-  * 労働、福祉、金融、地域自治とAPI連携
-  * マイナンバー等を軸とした制度横断的自動控除
-
-* **経済成長評価（[GrowthSimulation.md](./GrowthSimulation.md)）**
-
-  * HETAX導入によるGDP・雇用・分配への影響試算
-  * 持続的成長と格差是正の両立可能性を検証
-
-* **税収試算（[TaxRevenueComparison.md](./TaxRevenueComparison.md)）**
-
-  * 現行制度と比較し、税収増加の可能性を定量分析
-  * 楽観／中間／悲観シナリオ別に10年分の予測を掲載
-  * マクロ経済指標との連動モデルも導入
+本リポジトリでは、法人税制・個人税制・スコア制度・制度移行・経済影響評価・SDGs整合など、構想の全体像と技術的・制度的提案を段階的に提示しています。
 
 ---
 
-## SDGsとの接点 / Alignment with SDGs
+## 📚 主な構成ファイル / Main Documents
 
-HETAXは以下の目標と構造的に整合します：
-
-* SDG 8：働きがいも経済成長も → 健全な労働と再投資の促進
-* SDG 10：人や国の不平等をなくそう → 高所得偏重の是正
-* SDG 16：平和と公正をすべての人に → 会計透明性とデジタル監査
-* SDG 17：パートナーシップで目標を達成しよう → 官民連携とAPI連動
-
----
-
-## 今後の展開 / Future Directions
-
-* **制度統合の深化**：福祉・金融・労働と横断的に接続し、リアルタイム自動控除を実現
-* **成長・格差への影響可視化**：マクロ経済変数との動的連動モデルとダッシュボード整備
-* **AI政策支援**：LLM・エージェント技術を用いた税制評価・調整ツール開発（参考：TaxAgent）
-* **地域連携**：自治体による地域人道スコアの実装と活用（補助・助成金連動）
-* **国際互換性**：OECD最低税制、SDGsと整合性を持つグローバル対応
+* [CorporateTax.md](./CorporateTax.md)：法人税制度案（人件費・労働時間・再投資等による累進評価）
+* [PersonalTax.md](./PersonalTax.md)：個人税制度への展開草案
+* [HumanitarianScore.md](./HumanitarianScore.md)：人道スコア評価の構成と項目
+* [DXSupportMeasures.md](./DXSupportMeasures.md)：DX整備支援策（中小企業・自治体向け）
+* [DeploymentRoadmap.md](./DeploymentRoadmap.md)：段階導入ロードマップ
+* [GrowthSimulation.md](./GrowthSimulation.md)：制度導入による経済成長シミュレーション
+* [TaxRevenueComparison.md](./TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
+* [Integration.md](./Integration.md)：福祉・財政との制度統合構想
+* [FAQ.md](./FAQ.md)：よくある誤解とFAQ
+* [CounterArguments.md](./CounterArguments.md)：反論とその回答集
 
 ---
 
-> “人を削らず、未来を削らず、社会を育てる税制へ”
-> HETAXは、人道と成長を両立する公共経済の基盤です。
+## 🔗 外部整合と展望 / External Alignment & Future Vision
+
+* **SDGsとの整合**：とくに「目標8（働きがい）」「目標10（不平等是正）」「目標16（制度透明性）」と整合
+* **OECD最低税制との親和性**：BEPS対応や国際協調型課税にも対応可能
+* **AI・DXとの融合**：スコア自動計算、申告自動化、違反検出のデジタル基盤を設計
+* **制度導入は段階的に**：自治体・中小企業から開始し、10年スパンで全国・国際対応へ拡張
+
+---
+
+> 公平性のある課税は、評価基準が倫理に根ざすときに真に実現する。
+> HETAXは、経済の仕組みそのものを人道的に書き換えるための提案です。
