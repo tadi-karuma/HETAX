@@ -10,18 +10,18 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 
 ## 📚 主な構成ファイル / Main Documents
 
-* [CorporateTax.md](./CorporateTax.md)：法人税制度案（人件費・労働時間・再投資等による累進評価）
-* [PersonalTax.md](./PersonalTax.md)：個人税制度への展開草案
-* [HumanitarianScore.md](./HumanitarianScore.md)：人道スコア評価の構成と項目
-* [DXSupportMeasures.md](./DXSupportMeasures.md)：DX整備支援策（中小企業・自治体向け）
-* [DeploymentRoadmap.md](./DeploymentRoadmap.md)：段階導入ロードマップ
-* [GrowthSimulation.md](./GrowthSimulation.md)：制度導入による経済成長シミュレーション
-* [TaxRevenueComparison.md](./TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
-* [Integration.md](./Integration.md)：福祉・財政との制度統合構想
-* [TransitionImpact.md](./TransitionImpact.md)：制度移行の影響と適応戦略
-* [FAQ.md](./HETAX_FAQ.md)：よくある誤解とFAQ
-* [CounterArguments.md](./CounterArguments.md)：反論とその回答集
-* [TaxProfessionalsSupport.md](./TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応
+* [CorporateTax.md](docs/CorporateTax.md)：法人税制度案（人件費・労働時間・再投資等による累進評価）
+* [PersonalTax.md](docs/PersonalTax.md)：個人税制度への展開草案
+* [HumanitarianScore.md](docs/HumanitarianScore.md)：人道スコア評価の構成と項目
+* [DXSupportMeasures.md](docs/DXSupportMeasures.md)：DX整備支援策（中小企業・自治体向け）
+* [DeploymentRoadmap.md](docs/DeploymentRoadmap.md)：段階導入ロードマップ
+* [GrowthSimulation.md](docs/GrowthSimulation.md)：制度導入による経済成長シミュレーション
+* [TaxRevenueComparison.md](docs/TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
+* [Integration.md](docs/Integration.md)：福祉・財政との制度統合構想
+* [TransitionImpact.md](docs/TransitionImpact.md)：制度移行の影響と適応戦略
+* [FAQ.md](docs/FAQ.md)：よくある誤解とFAQ
+* [CounterArguments.md](docs/CounterArguments.md)：反論とその回答集
+* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応
 
 ---
 
