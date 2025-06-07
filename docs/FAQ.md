@@ -61,6 +61,6 @@
 ### 🔗 関連リンク / Related Links
 
 * [README.md（構想全体概要）](./README.md)
-* [HETAXに対する反論と回答集](./HETAX_CounterArguments.md)
+* [HETAXに対する反論と回答集](./CounterArguments.md)
 
 > 誤解を解き、対話と参加を促すことが、人道経済の第一歩。
