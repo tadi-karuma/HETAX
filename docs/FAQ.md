@@ -42,7 +42,7 @@
 
 ### Q3. なぜ段階導入にするの？
 
-**A.** 一挙導入は実務的にも政治的にも難しく、制度不信を招きやすいため。段階導入により試行錯誤しながら制度信頼を確立します（[DeploymentRoadmap.md](./DeploymentRoadmap.md) 参照）。
+**A.** 一挙導入は実務的にも政治的にも難しく、制度不信を招きやすいため。段階導入により試行錯誤しながら制度信頼を確立します（[HETAX\_DeploymentRoadmap.md](./HETAX_DeploymentRoadmap.md) 参照）。
 
 ---
 
@@ -57,5 +57,10 @@
 **A.** 段階導入＋SDGsとの整合＋地方自治体主導モデルにより、現実性を確保しつつ既存勢力との摩擦も最小化する設計です。
 
 ---
+
+### 🔗 関連リンク / Related Links
+
+* [README.md（構想全体概要）](./README.md)
+* [HETAXに対する反論と回答集](./HETAX_CounterArguments.md)
 
 > 誤解を解き、対話と参加を促すことが、人道経済の第一歩。
