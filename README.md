@@ -25,7 +25,7 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 * [CounterArguments.md](docs/CounterArguments.md)：反論とその回答集
 * [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応
 * [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：
-* [SdgsAlignmentHetax.md](docs/SdgsAlignmentHetax.md)：
+* [SdgsAlignmentHetax.md](docs/SdgsAlignmentHetax.md)：SDGsとの整合性に関する補足文書
 ---
 
 ## 🔗 外部整合と展望 / External Alignment & Future Vision
