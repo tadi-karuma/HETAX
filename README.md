@@ -15,7 +15,7 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 * [CorporateTax.md](docs/CorporateTax.md)：法人税制度案（人件費・労働時間・再投資等による累進評価）
 * [PersonalTax.md](docs/PersonalTax.md)：個人税制度への展開草案
 * [HumanitarianScore.md](docs/HumanitarianScore.md)：人道スコア評価の構成と項目
-* [DXSupportMeasures.md](docs/DXSupportMeasures.md)：DX整備支援策（中小企業・自治体向け）
+* [DXSupportMeasures.md](docs/DxsupportMeasures.md)：DX整備支援策（中小企業・自治体向け）
 * [DeploymentRoadmap.md](docs/DeploymentRoadmap.md)：段階導入ロードマップ
 * [GrowthSimulation.md](docs/GrowthSimulation.md)：制度導入による経済成長シミュレーション
 * [TaxRevenueComparison.md](docs/TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
