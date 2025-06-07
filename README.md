@@ -18,10 +18,10 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 * [GrowthSimulation.md](docs/GrowthSimulation.md)：制度導入による経済成長シミュレーション
 * [TaxRevenueComparison.md](docs/TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
 * [Integration.md](docs/Integration.md)：福祉・財政との制度統合構想
-* [TransitionImpact.md](docs/TransitionImpact.md)：制度移行の影響と適応戦略
-* [FAQ.md](docs/FAQ.md)：よくある誤解とFAQ
-* [CounterArguments.md](docs/CounterArguments.md)：反論とその回答集
-* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応
+* [TransitionImpact.md](docs/HETAX_TransitionImpact.md)：制度移行の影響と適応戦略
+* [FAQ.md](docs/HETAX_FAQ.md)：よくある誤解とFAQ
+* [CounterArguments.md](docs/HETAX_CounterArguments.md)：反論とその回答集
+* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応（※新設予定）
 
 ---
 
@@ -31,7 +31,21 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 * **OECD最低税制との親和性**：BEPS対応や国際協調型課税にも対応可能
 * **AI・DXとの融合**：スコア自動計算、申告自動化、違反検出のデジタル基盤を設計
 * **制度導入は段階的に**：自治体・中小企業から開始し、10年スパンで全国・国際対応へ拡張
-* **税理士との共存と支援**：HETAX導入にあたり、税理士業務の再定義と再訓練支援を制度設計に含める
+* **税理士との共存と支援**：HETAX導入にあたり、税理士業務の再定義と再訓練支援を制度設計に含める（文書化予定）
+
+---
+
+## 📝 ライセンス / License
+
+本構想および文書群は、以下の条件のもとで自由に利用・参照・派生提案を行うことができます：
+
+**Creative Commons BY 4.0（表示・改変可・商用可）**
+
+ご利用の際は、以下のリポジトリURLを出典として記載してください：
+
+* [https://github.com/tadi-karuma/HETAX](https://github.com/tadi-karuma/HETAX)
+
+ライセンス詳細は [LICENSE](./LICENSE) をご参照ください。
 
 ---
 
