@@ -1,5 +1,7 @@
 # HETAX: Humanitarian Economy Tax System
 
+📄 **構想の1ページ要約はこちら → [HETAX\_Summary.md](./HETAX_Summary.md)**
+
 ## 概要 / Overview
 
 HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・社会主義に代わる「人道主義経済」のための新しい税制構想です。富や利益の集中ではなく、倫理的・社会的な貢献に基づく評価を税制に取り入れることで、より持続可能で公正な経済を実現します。
@@ -18,9 +20,9 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 * [GrowthSimulation.md](docs/GrowthSimulation.md)：制度導入による経済成長シミュレーション
 * [TaxRevenueComparison.md](docs/TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
 * [Integration.md](docs/Integration.md)：福祉・財政との制度統合構想
-* [TransitionImpact.md](docs/HETAX_TransitionImpact.md)：制度移行の影響と適応戦略
-* [FAQ.md](docs/HETAX_FAQ.md)：よくある誤解とFAQ
-* [CounterArguments.md](docs/HETAX_CounterArguments.md)：反論とその回答集
+* [TransitionImpact.md](docs/TransitionImpact.md)：制度移行の影響と適応戦略
+* [FAQ.md](docs/FAQ.md)：よくある誤解とFAQ
+* [CounterArguments.md](docs/CounterArguments.md)：反論とその回答集
 * [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応（※新設予定）
 
 ---
