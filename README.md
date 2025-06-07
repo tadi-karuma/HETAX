@@ -55,26 +55,6 @@
 
 ---
 
-## 📂 リポジトリ構成 / Repository Structure
-
-HETAX/
-├── README.md
-├── docs/
-│ ├── CorporateTax.md
-│ ├── PersonalTax.md
-│ ├── Integration.md
-│ ├── TaxRevenueComparison.md
-│ ├── GrowthSimulation.md
-│ └── HumanitarianScore.md
-├── diagrams/
-│ └── system-overview.png
-├── whitepaper/
-│ ├── HETAX_JA.pdf
-│ └── HETAX_EN.pdf
-└── LICENSE
-
----
-
 ## 🌱 HETAXとSDGsの接点 / Alignment with SDGs
 
 HETAXは、国連の持続可能な開発目標（SDGs）と高い整合性を持ち、以下の目標達成に貢献します：
