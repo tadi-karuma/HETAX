@@ -42,7 +42,7 @@
 
 ### Q3. なぜ段階導入にするの？
 
-**A.** 一挙導入は実務的にも政治的にも難しく、制度不信を招きやすいため。段階導入により試行錯誤しながら制度信頼を確立します（[HETAX\_DeploymentRoadmap.md](./HETAX_DeploymentRoadmap.md) 参照）。
+**A.** 一挙導入は実務的にも政治的にも難しく、制度不信を招きやすいため。段階導入により試行錯誤しながら制度信頼を確立します（[DeploymentRoadmap.md](./DeploymentRoadmap.md) 参照）。
 
 ---
 
