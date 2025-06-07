@@ -18,6 +18,7 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 * [GrowthSimulation.md](./GrowthSimulation.md)：制度導入による経済成長シミュレーション
 * [TaxRevenueComparison.md](./TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
 * [Integration.md](./Integration.md)：福祉・財政との制度統合構想
+* [TransitionImpact.md](./TransitionImpact.md)：制度移行の影響と適応戦略
 * [FAQ.md](./FAQ.md)：よくある誤解とFAQ
 * [CounterArguments.md](./CounterArguments.md)：反論とその回答集
 
@@ -34,3 +35,4 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 
 > 公平性のある課税は、評価基準が倫理に根ざすときに真に実現する。
 > HETAXは、経済の仕組みそのものを人道的に書き換えるための提案です。
+
