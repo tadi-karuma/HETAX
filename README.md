@@ -23,8 +23,9 @@ HETAX（ヒューマニタリアン経済課税）は、従来の資本主義・
 * [TransitionImpact.md](docs/TransitionImpact.md)：制度移行の影響と適応戦略
 * [FAQ.md](docs/FAQ.md)：よくある誤解とFAQ
 * [CounterArguments.md](docs/CounterArguments.md)：反論とその回答集
-* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応（※新設予定）
-
+* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応
+* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：
+* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：
 ---
 
 ## 🔗 外部整合と展望 / External Alignment & Future Vision
