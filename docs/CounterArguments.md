@@ -50,7 +50,7 @@ HETAX構想は革新的であるがゆえに、既存の制度・経済観に基
 
 **回答：**
 
-* 段階導入（[HETAX\_DeploymentRoadmap.md](./HETAX_DeploymentRoadmap.md)）により、制度慣れと順応期間を確保します。
+* 段階導入（[DeploymentRoadmap.md](./DeploymentRoadmap.md)）により、制度慣れと順応期間を確保します。
 * 各フェーズで必要な支援・フォーマット・教育が制度内に含まれており、現実的な移行が可能です。
 
 ---
