@@ -38,7 +38,7 @@ HETAX制度は、現行税制において最適化（節税戦略）を徹底し
 
 ## 2. 制度側の備え / Institutional Safeguards
 
-### ✅ 段階導入（参照：[HETAX\_DeploymentRoadmap.md](./HETAX_DeploymentRoadmap.md)）
+### ✅ 段階導入（参照：[DeploymentRoadmap.md](./DeploymentRoadmap.md)）
 
 * Phase 1：給付ベースのスコア制度からスタート
 * Phase 2：任意控除型制度で希望企業から導入
