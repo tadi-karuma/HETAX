@@ -68,3 +68,35 @@ HETAXは、人道主義的価値に基づいて再設計された、新しい法
 
 > これは「理想」ではなく、「倫理から制度を逆算した構想」です。  
 > 専門家・政策関係者・有志との連携を歓迎します。
+
+---
+
+## 🏛️ 行政FAQ想定（内閣府・財務省等の政策担当者向け）
+
+### Q1. 現行税法との整合性はどのように考えていますか？
+A. HETAXは既存制度の即時廃止を前提とせず、段階的導入（5フェーズ構成）により、現行税法の枠組みの中で「控除スコア」や「加算スコア」として段階適用可能な構成を取っています。  
+➡️ 詳しくは [DeploymentRoadmap.md](./docs/DeploymentRoadmap.md) をご覧ください。
+
+---
+
+### Q2. スコアの算出アルゴリズムは公開されますか？その信頼性は？
+A. はい、スコアロジックは公開可能なAPI構成を基本とし、査定アルゴリズムの公開・異議申し立て制度・監査体制を三位一体で設計しています。現行の公的評価制度と同等以上の透明性を担保します。  
+➡️ 詳しくは [HumanitarianScore.md](./docs/HumanitarianScore.md) をご覧ください。
+
+---
+
+### Q3. 財政インパクトの定量化はありますか？
+A. 「TaxRevenueComparison.md」および「ScoreExampleAndFiscalFlows.md」で簡易モデルを提示しています。詳細なマクロ試算は政策連携段階での協力を前提としています。  
+➡️ 詳しくは [TaxRevenueComparison.md](./docs/TaxRevenueComparison.md) および [GrowthSimulation.md](./docs/GrowthSimulation.md) をご覧ください。
+
+---
+
+### Q4. どの規模の法人・個人が対象ですか？
+A. 初期段階では中堅法人・特定業種を中心に、適用を限定した上で試験導入します。最終フェーズにおいてはOECD準拠の国際連携も視野に入れた拡張が構想されています。  
+➡️ 詳しくは [CorporateTax.md](./docs/CorporateTax.md)、[PersonalTax.md](./docs/PersonalTax.md) をご覧ください。
+
+---
+
+### Q5. 自治体・税務署など現場のオペレーションはどう変わりますか？
+A. DXによる査定の自動化・透明化を想定しており、人的負担の軽減を含む税務再設計が想定されています。段階導入により、現場負担が急増しないよう設計されています。  
+➡️ 詳しくは [TaxProfessionalsSupport.md](./docs/TaxProfessionalsSupport.md) をご覧ください。
