@@ -47,22 +47,37 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 - インボイス・マイナンバー制度と連動した申告自動処理構想
 - 再分配スコアのオープンAPI設計構想（試作中）
 
-## 📚 主な構成ファイル / Main Documents
+## 🔗 構成ドキュメント一覧（理解の順序に基づく）
 
-* [CorporateTax.md](docs/CorporateTax.md)：法人税制度案（人件費・労働時間・再投資等による累進評価）
-* [PersonalTax.md](docs/PersonalTax.md)：個人税制度への展開草案
-* [HumanitarianScore.md](docs/HumanitarianScore.md)：人道スコア評価の構成と項目
-* [DXSupportMeasures.md](docs/DxsupportMeasures.md)：DX整備支援策（中小企業・自治体向け）
-* [DeploymentRoadmap.md](docs/DeploymentRoadmap.md)：段階導入ロードマップ
-* [GrowthSimulation.md](docs/GrowthSimulation.md)：制度導入による経済成長シミュレーション
-* [TaxRevenueComparison.md](docs/TaxRevenueComparison.md)：税収比較シミュレーション（現行制度 vs HETAX）
-* [Integration.md](docs/Integration.md)：福祉・財政との制度統合構想
-* [TransitionImpact.md](docs/TransitionImpact.md)：制度移行の影響と適応戦略
-* [FAQ.md](docs/FAQ.md)：よくある誤解とFAQ
-* [CounterArguments.md](docs/CounterArguments.md)：反論とその回答集
-* [TaxProfessionalsSupport.md](docs/TaxProfessionalsSupport.md)：税理士・専門職支援に関する配慮と制度的対応
-* [PensionIntegrationHetax.md](docs/PensionIntegrationHetax.md)：年金制度との接続可能性
-* [SdgsAlignmentHetax.md](docs/SdgsAlignmentHetax.md)：SDGsとの整合性に関する補足文書
+### 1. 概要と導入
+- [HETAX_Summary.md](./HETAX_Summary.md)
+- [README.md（本書）](./README.md)
+
+### 2. 中核制度設計
+- [HumanitarianScore.md](./docs/HumanitarianScore.md)
+- [CorporateTax.md](./docs/CorporateTax.md)
+- [PersonalTax.md](./docs/PersonalTax.md)
+
+### 3. 財政インパクトと構造接続
+- [GrowthSimulation.md](./docs/GrowthSimulation.md)
+- [TaxRevenueComparison.md](./docs/TaxRevenueComparison.md)
+- [ScoreExampleAndFiscalFlows.md](./docs/ScoreExampleAndFiscalFlows.md)
+
+### 4. 実装と支援設計
+- [DeploymentRoadmap.md](./docs/DeploymentRoadmap.md)
+- [DxsupportMeasures.md](./docs/DxsupportMeasures.md)
+- [TaxProfessionalsSupport.md](./docs/TaxProfessionalsSupport.md)
+
+### 5. 制度統合と国際整合
+- [PensionIntegrationHetax.md](./docs/PensionIntegrationHetax.md)
+- [Integration.md](./docs/Integration.md)
+- [SdgsAlignmentHetax.md](./docs/SdgsAlignmentHetax.md)
+
+### 6. 防衛構造と応答設計
+- [FAQ.md](./docs/FAQ.md)
+- [CounterArguments.md](./docs/CounterArguments.md)
+- [TransitionImpact.md](./docs/TransitionImpact.md)
+
 ---
 
 ## 🔗 外部整合と展望 / External Alignment & Future Vision
