@@ -33,7 +33,7 @@ HETAX制度は、現行税制において最適化（節税戦略）を徹底し
 
 ## 🔄 適応戦略の概観
 
-### 1. 段階的導入（DeploymentRoadmap.md参照）
+### 1. 段階的導入（[DeploymentRoadmap.md](./DeploymentRoadmap.md)参照）
 
 - 段階移行による準備期間の確保（フェーズ1～3）
 - 地方自治体・中小企業から先行実施
