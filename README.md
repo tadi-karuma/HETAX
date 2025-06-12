@@ -69,7 +69,7 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 ### 5. 制度統合と国際整合
 - [年金制度との接続可能性](./docs/PensionIntegrationHetax.md)
 - [制度統合提案書](./docs/Integration.md)
-- [SdgsAlignmentHetax.md](./docs/SdgsAlignmentHetax.md)
+- [SDGsとの整合性に関する補足文書](./docs/SdgsAlignmentHetax.md)
 
 ### 6. 防衛構造と応答設計
 - [FAQ.md](./docs/FAQ.md)
