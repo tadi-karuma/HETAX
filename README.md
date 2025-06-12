@@ -50,7 +50,7 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 ## 🔗 構成ドキュメント一覧（理解の順序に基づく）
 
 ### 1. 概要と導入
-- [HETAX_Summary.md](./HETAX_Summary.md)
+- [HETAX 構想要約:HETAX_Summary.md](./HETAX_Summary.md)
 - [README.md（本書）](./README.md)
 
 ### 2. 中核制度設計
