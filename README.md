@@ -59,7 +59,7 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 - [HETAX個人税制提案書](./docs/PersonalTax.md)
 
 ### 3. 財政インパクトと構造接続
-- [GrowthSimulation.md](./docs/GrowthSimulation.md)
+- [経済成長シミュレーション](./docs/GrowthSimulation.md)
 - [TaxRevenueComparison.md](./docs/TaxRevenueComparison.md)
 
 ### 4. 実装と支援設計
