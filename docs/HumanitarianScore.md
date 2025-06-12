@@ -170,3 +170,10 @@ def calc_tax_rate(score: int) -> float:
 ---
 
 > 本文書は、Humanitarian Score を基盤とした社会的税制設計の仕様書である。社会的価値創出と税制が連動する社会の構築をめざす。
+
+---
+
+## 🔗 関連文書リンク（制度導入・接続関連）
+
+- [制度導入ロードマップ：DeploymentRoadmap.md](./DeploymentRoadmap.md)
+- [年金・福祉との制度統合案：Integration.md](./Integration.md)
