@@ -55,8 +55,8 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 
 ### 2. 中核制度設計
 - [Humanitarian Score（人道スコア）](./docs/HumanitarianScore.md)
-- [HETAX法人税制度](./docs/CorporateTax.md)
-- [PersonalTax.md](./docs/PersonalTax.md)
+- [HETAX法人税制提案書](./docs/CorporateTax.md)
+- [HETAX個人税制提案書](./docs/PersonalTax.md)
 
 ### 3. 財政インパクトと構造接続
 - [GrowthSimulation.md](./docs/GrowthSimulation.md)
