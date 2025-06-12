@@ -64,7 +64,7 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 
 ### 4. 実装と支援設計
 - [段階的導入ロードマップ](./docs/DeploymentRoadmap.md)
-- [DxsupportMeasures.md](./docs/DxsupportMeasures.md)
+- [HETAXにおけるDX整備支援策](./docs/DxsupportMeasures.md)
 
 ### 5. 制度統合と国際整合
 - [PensionIntegrationHetax.md](./docs/PensionIntegrationHetax.md)
