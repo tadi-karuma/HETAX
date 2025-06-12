@@ -72,7 +72,7 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 - [SDGsとの整合性に関する補足文書](./docs/SdgsAlignmentHetax.md)
 
 ### 6. 防衛構造と応答設計
-- [FAQ.md](./docs/FAQ.md)
+- [よくある誤解とFAQ](./docs/FAQ.md)
 - [CounterArguments.md](./docs/CounterArguments.md)
 - [TransitionImpact.md](./docs/TransitionImpact.md)
 
