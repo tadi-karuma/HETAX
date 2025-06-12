@@ -63,7 +63,7 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 - [税収比較シミュレーション](./docs/TaxRevenueComparison.md)
 
 ### 4. 実装と支援設計
-- [DeploymentRoadmap.md](./docs/DeploymentRoadmap.md)
+- [段階的導入ロードマップ](./docs/DeploymentRoadmap.md)
 - [DxsupportMeasures.md](./docs/DxsupportMeasures.md)
 
 ### 5. 制度統合と国際整合
