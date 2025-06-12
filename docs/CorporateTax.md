@@ -1,4 +1,4 @@
-# HETAX法人税制度
+# HETAX法人税制提案書
 
 ## 1. 制度概要（Humanitarian Score接続型法人税）
 
