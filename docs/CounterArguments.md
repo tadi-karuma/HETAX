@@ -56,3 +56,13 @@ HETAX制度では、**中小企業・自治体向けのデジタル支援策（D
 ---
 
 > 上記の回答はすべて、制度設計文書・FAQ・支援文書とリンクした整合構造に基づいています。
+
+---
+
+## 🔗 関連ドキュメントへのリンク
+
+- [Humanitarian Score 指標設計](./HumanitarianScore.md)
+- [法人税制度（再構成案）](./CorporateTax_Rebuilt.md)
+- [制度導入ロードマップ](./DeploymentRoadmap.md)
+- [制度統合案（年金・福祉等）](./Integration.md)
+- [FAQ](./FAQ.md)
