@@ -1,4 +1,4 @@
-# HETAX法人税制度（Humanitarian Score 前提再構成案）
+# HETAX法人税制度
 
 ## 1. 制度概要（Humanitarian Score接続型法人税）
 
@@ -40,7 +40,7 @@ HETAX法人税制は、企業活動の社会的・倫理的価値を評価する
 - 自由：人的支出比率、再投資率、知財取得、雇用多様性、地域連携、情報倫理など
 - 最大スコア100点（減点あり）
 
-詳細仕様は `HumanitarianScore.md` を参照。
+詳細仕様は [HumanitarianScore.md](HumanitarianScore.md) を参照。
 
 ---
 
