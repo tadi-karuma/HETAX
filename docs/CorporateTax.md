@@ -92,3 +92,10 @@ Humanitarian Score とは独立に、課税所得に対する累進的課税制�
 - スコアと法人実態の乖離検出（加重平均導入等）
 - 海外制度との整合（OECD等）
 - 個人課税・社会保障との接続最適化
+
+---
+
+## 📊 財政影響・制度効果に関する関連文書
+
+- [財政比較試算モデル：TaxRevenueComparison.md](./TaxRevenueComparison.md)
+- [成長・雇用影響シミュレーション：GrowthSimulation.md](./GrowthSimulation.md)
