@@ -73,7 +73,7 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 
 ### 6. 防衛構造と応答設計
 - [よくある誤解とFAQ](./docs/FAQ.md)
-- [CounterArguments.md](./docs/CounterArguments.md)
+- [HETAXに対する主な反論とその回答集](./docs/CounterArguments.md)
 - [TransitionImpact.md](./docs/TransitionImpact.md)
 
 ---
