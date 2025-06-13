@@ -96,10 +96,6 @@ HETAX（ヒューマニタリアン経済課税）は、次のような構想で
 
 **Creative Commons BY 4.0（表示・改変可・商用可）**
 
-ご利用の際は、以下のリポジトリURLを出典として記載してください：
-
-* [https://github.com/tadi-karuma/HETAX](https://github.com/tadi-karuma/HETAX)
-
 ライセンス詳細は [LICENSE](./LICENSE) をご参照ください。
 
 > 公平性のある課税は、評価基準が倫理に根ざすときに真に実現する。
